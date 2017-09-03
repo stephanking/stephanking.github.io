@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: About Me
+title: Portfolio
 
 date: 2017-09-03 18:05:10 +0800
 
@@ -14,7 +14,7 @@ categories:
 
 Contact：
 
-Mail：i@
+Mail：i@mydomain
 
 Telegram：[TG](https://t.me/u325511679/)
 
