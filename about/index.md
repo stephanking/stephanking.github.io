@@ -22,8 +22,6 @@ categories:
  <big>*Contact:*</big>
 
  + E-Mail：i@mydomain
-
  + Telegram：[TG](https://t.me/u325511679/)
-
  + Google Voice：+1（）-
 
