@@ -19,7 +19,7 @@ categories:
 ******
 ******
 
- <big>*Contact*</big>
+ <big>*Contact:*</big>
 
  + E-Mail：i@mydomain
 
