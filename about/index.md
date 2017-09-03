@@ -9,14 +9,17 @@ categories:
 
 ---
 
+ 
 # Stephan King #
 # From the SC City China #
 # You can find something about me here. #
 # Feel free to contact me. #
 
+
 ******
 ******
- Contact：
+
+ <big>*Contact*</big>
 
  + E-Mail：i@mydomain
 
