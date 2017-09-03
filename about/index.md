@@ -14,11 +14,13 @@ categories:
 # You can find something about me here. #
 # Feel free to contact me. #
 
+******
+******
  Contact：
 
- Mail：i@mydomain
+ + E-Mail：i@mydomain
 
- Telegram：[TG](https://t.me/u325511679/)
+ + Telegram：[TG](https://t.me/u325511679/)
 
- Google Voice：+1（）-
+ + Google Voice：+1（）-
 
